@@ -1,4 +1,4 @@
-# rec-engine-web
+# vue3-project-web
 
 ## Project setup
 ```
